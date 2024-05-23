@@ -1,0 +1,17 @@
+{
+    "name": "hdy/access_log",
+    "autoload": {
+        "psr-4": {
+            "Hdy\\AccessLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hongdaoyou",
+            "email": "daoyouhong@gmail.com"
+        }
+    ],
+    "require": {
+        "elasticsearch/elasticsearch": "^7.0"
+    }
+}
